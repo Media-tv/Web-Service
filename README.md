@@ -12,6 +12,6 @@ Since Karate is built on top of [Cucumber-JVM](https://github.com/cucumber/cucum
 
 ## Diagram
 
-<a href="./apis-versus-web-services-1.png" height="100%" /></a>
+<a href="./apis-versus-web-services-1.png" height="500" /></a>
 
 > If you are familar with Cucumber, the [*big difference*](#cucumber-vs-karate) here is that you **don't** need to write extra "glue" code or Java "step definitions" !
